@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/React-Portfolio/static/js/main.6a2b37f0.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6a2b37f0.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.c2e77b81.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.c2e77b81.js.map",
+    "static/css/2.217e810c.chunk.css": "/React-Portfolio/static/css/2.217e810c.chunk.css",
+    "static/js/2.74ca4cfd.chunk.js": "/React-Portfolio/static/js/2.74ca4cfd.chunk.js",
+    "static/js/2.74ca4cfd.chunk.js.map": "/React-Portfolio/static/js/2.74ca4cfd.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.217e810c.chunk.css.map": "/React-Portfolio/static/css/2.217e810c.chunk.css.map",
+    "static/js/2.74ca4cfd.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.74ca4cfd.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/React-Portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/React-Portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/React-Portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about.c2c3da4a.jpg": "/React-Portfolio/static/media/about.c2c3da4a.jpg",
+    "static/media/best.4d8a2056.jpg": "/React-Portfolio/static/media/best.4d8a2056.jpg",
+    "static/media/map.2db1251f.png": "/React-Portfolio/static/media/map.2db1251f.png",
+    "static/media/parking.1347984c.jpeg": "/React-Portfolio/static/media/parking.1347984c.jpeg",
+    "static/media/password.20deb60f.jpg": "/React-Portfolio/static/media/password.20deb60f.jpg",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/React-Portfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/snow.b92fac30.jpg": "/React-Portfolio/static/media/snow.b92fac30.jpg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/React-Portfolio/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e77b81.js",
+    "static/css/2.217e810c.chunk.css",
+    "static/js/2.74ca4cfd.chunk.js",
+    "static/js/main.6a2b37f0.chunk.js"
+  ]
+}
